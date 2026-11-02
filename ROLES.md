@@ -1,14 +1,20 @@
 # Roles del equipo
 ## Integrantes
-- Sofia V
-- Katherine R
+- Sofía 
+- Katherine 
 ## Asignación de archivos
-| Archivo | Dueño | Función asignada | Fecha límite |
-|---|---|---|---|
-| src/load_data.py | Sofía V | cargar_datos | (fecha) |
-| src/stats.py | Katherine R | promedio, mediana | (fecha) |
-| src/visualize.py | Katherine R | grafica_lineas | (fecha) |
-| app.py | Sofía V | Página principal | (fecha) |
+| Archivo | Responsable |
+|---|---|
+| app.py | Katherine |
+| src/stress_analysis.py | Katherine |
+| pages/2_Analisis.py | Katherine |
+| pages/3_Calendario.py | Katherine |
+| pages/5_Respiracion.py | Katherine |
+| src/data_manager.py | Sofía |
+| src/recommendations.py | Sofía |
+| pages/1_Registro_Diario.py | Sofía |
+| pages/4_Recomendaciones.py | Sofía |
+| requirements.txt | Sofía |
 ## Reglas del equipo
 1. Cada integrante trabaja solo en su archivo.
 2. Antes de empezar a trabajar, siempre ejecutar

@@ -21,3 +21,42 @@ nivel = st.slider(
 
 if st.button("Registrar"):
     st.success(f"Tu nivel de estrés de hoy es {nivel}/10.")
+
+# Copilot, desarrolla la pantalla principal de Stress App
+# utilizando Python y Streamlit.
+#
+# Objetivo:
+# Crear una aplicación para ayudar a estudiantes
+# de preparatoria a registrar y comprender su
+# estrés académico.
+#
+# Función: main()
+#
+# Recibe:
+# - No recibe parámetros directamente.
+# - Utiliza las interacciones del usuario.
+#
+# Devuelve:
+# - Una interfaz visual de Streamlit.
+#
+# Funcionalidades:
+# - Mostrar el título "Stress App".
+# - Presentar una bienvenida.
+# - Explicar el objetivo de la aplicación.
+# - Mostrar instrucciones de navegación.
+# - Integrar las páginas de registro diario,
+#   análisis, calendario, recomendaciones
+#   y respiración.
+#
+# Casos borde:
+# - Datos inexistentes.
+# - Archivos faltantes.
+# - Errores al cargar las páginas.
+#
+# Requisitos:
+# - Usar Streamlit.
+# - Mantener un diseño sencillo y agradable.
+# - Evitar colores demasiado llamativos.
+# - Incluir docstring en español.
+# - Agregar comentarios en español.
+# - No duplicar funciones de otros archivos.
